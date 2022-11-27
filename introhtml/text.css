@@ -1,0 +1,52 @@
+P{
+  font-family:Arial ;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.title-video{
+  font-weight: bold;
+  font-size: 18px;
+  width: 290px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.video-stats{
+color:#606060;  
+font-size: 14px;
+margin-top: 0;
+margin-bottom: 20px;
+}
+.author{
+color: #606060; 
+
+font-size: 14px;
+margin-top: 0;
+margin-bottom: 20px;
+
+}
+.video-dis{
+color: #606060;
+font-size: 14px;
+width: 280px;
+line-height: 20px;
+margin-top: 0;
+margin-bottom: 100px;
+
+}
+.apple-ad{
+margin-bottom: 50px;
+color: #606060;
+background-color: #e34140;
+color: white;
+font-size: 14px;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.spo{
+cursor: pointer;
+}
+.spo:hover{
+text-decoration: underline;
+
+}
